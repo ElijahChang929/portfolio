@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Guangxin Zhang",
-  title: A student in PKU",
+  title: "A student in PKU",
   email: "zhangguangxin929@gmail.com",
   gitHub: "https://github.com/ElijahChang929?tab=repositories",
 };
